@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon run dev",
-    "start": "node index.js"
+    "start": "node Index.js"
   },
   "keywords": [],
   "author": "prem",
